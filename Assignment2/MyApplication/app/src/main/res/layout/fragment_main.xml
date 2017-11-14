@@ -31,6 +31,7 @@
                 android:inputType="textPersonName"
                 android:selectAllOnFocus="false"
                 android:singleLine="false"
+                android:textColorHint="@color/colorPrimaryDark"
                 android:textColorLink="@color/colorPrimaryDark" />
 
             <Button
